@@ -16,7 +16,7 @@
 
 ## OptionalDeps: Ace3, AceGUI-3.0-SharedMediaWidgets, LibDBIcon-1.0, LibDualSpec-1.0, LibQTip-1.0, LibSharedMedia-3.0, UTF8
 
-## SavedVariables: ElkBuffBarsTbcDB
+## SavedVariables: ElkBuffBarsDB
 
 ## Category: Buffs & Debuffs
 
@@ -31,6 +31,6 @@ locales\ElkBuffBars.ruRU.lua
 locales\ElkBuffBars.zhCN.lua
 locales\ElkBuffBars.zhTW.lua
 
-ElkBuffBars.lua
+ElkBuffBarsTBC.lua
 EBB_Bar.lua
 EBB_BarGroup.lua
