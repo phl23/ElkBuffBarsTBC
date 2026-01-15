@@ -18,7 +18,7 @@
 
 ## SavedVariables: ElkBuffBarsTbcDB
 
-## Category: Buffs
+## Category: Buffs & Debuffs
 
 #@no-lib-strip@
 embeds.xml
